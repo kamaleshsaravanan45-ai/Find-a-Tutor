@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "299294924284",
+    "project_id": "find-a-tutor-80a53",
+    "storage_bucket": "find-a-tutor-80a53.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299294924284:android:248f060f349a2cb8afe679",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARKks4FIe7_8agXog5n5L7401Oiq5UTOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
